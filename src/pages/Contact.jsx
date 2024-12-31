@@ -7,7 +7,7 @@ import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
-import location from "../assets/location.jpg";
+import location from "/assets/location.jpg";
 import CartModal from "@/components/CartModal";
 const Contact = () => {
   const [isCartOpen, setIsCartOpen] = useState(false);
