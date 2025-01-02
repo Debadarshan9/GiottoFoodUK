@@ -1,6 +1,6 @@
 import React from 'react'
-import img1 from "../assets/dante.png"
-import img2 from "../assets/4CB8jIP.jpg"
+import img1 from "../images/dante.png"
+import img2 from "../images/4CB8jIP.jpg"
 
 const Partners = () => {
   return (

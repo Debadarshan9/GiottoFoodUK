@@ -1,13 +1,13 @@
 import Navbar from "@/components/Navbar";
 import React, { useState } from "react";
-import spice from "../assets/spice.jpg";
+import spice from "../images/spice.jpg";
 import "../App.css";
 import Footer from "@/components/Footer";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
-import location from "/assets/location.jpg";
+import location from "../images/location.jpg";
 import CartModal from "@/components/CartModal";
 const Contact = () => {
   const [isCartOpen, setIsCartOpen] = useState(false);

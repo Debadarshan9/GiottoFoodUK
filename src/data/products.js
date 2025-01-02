@@ -1,5 +1,5 @@
-import img1 from "../assets/bottle.jpg"
-import img2 from "../assets/bottleCover.jpg"
+import img1 from "../images/bottle.jpg"
+import img2 from "../images/bottleCover.jpg"
 
 
 const productList = [

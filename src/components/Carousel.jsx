@@ -7,8 +7,8 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import Autoplay from "embla-carousel-autoplay";
-import img2 from "../assets/oil-bottle-with-new-label-w.jpg";
-import img3 from "../assets/shutterstock_674598577.jpg";
+import img2 from "../images/oil-bottle-with-new-label-w.jpg";
+import img3 from "../images/shutterstock_674598577.jpg";
 const CarouselDemo = () => {
   const imageArray = [img2, img3, img2, img3, img2, img3];
 

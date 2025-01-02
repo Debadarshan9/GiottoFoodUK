@@ -1,10 +1,10 @@
 import Navbar from "@/components/Navbar";
 import React, { useState } from "react";
-import giottoFood from "/assets/giottoFoodUk.png";
-import olio from "../assets/Olio Dante.mp4";
+import giottoFood from "../images/giottoFoodUk.png";
+import olio from "../images/Olio Dante.mp4";
 import Footer from "@/components/Footer";
-import fieldTree from "/assets/Field_Tree.jpg";
-import fakeMango from "/assets/Fake_Mango_Oil_Bottle.jpg";
+import fieldTree from "../images/Field_Tree.jpg";
+import fakeMango from "../images/Fake_Mango_Oil_Bottle.jpg";
 import CartModal from "@/components/CartModal";
 const About = () => {
   const [isCartOpen, setIsCartOpen] = useState(false);

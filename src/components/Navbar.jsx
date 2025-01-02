@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-import logo from "../assets/_NEW-LOGO-Giotto-legno-250.png";
+import logo from "../images/_NEW-LOGO-Giotto-legno-250.png";
 import ".././App.css";
 import { Link } from "react-router-dom";
 import { Input } from "./ui/input";

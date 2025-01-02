@@ -1,8 +1,8 @@
 import React from "react";
-import dante from "../assets/dante.png";
-import bella from "../assets/bella.jpg";
-import massaro from "../assets/Massaro-vini.png";
-import amigos from "../assets/amigos.png";
+import dante from "../images/dante.png";
+import bella from "../images/bella.jpg";
+import massaro from "../images/Massaro-vini.png";
+import amigos from "../images/amigos.png";
 import Footer from "./Footer";
 const Brands = () => {
   const imgArray = [
