@@ -1,6 +1,5 @@
 {
     "name": "frontend",
-    "homrpage": "https://debadarshan9.github.io/GiottoFoodUK/",
     "private": true,
     "version": "0.0.0",
     "type": "module",

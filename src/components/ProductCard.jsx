@@ -16,7 +16,7 @@ function ProductCard({ product }) {
               <img
                 src={image}
                 alt=""
-                className="h-48 w-full object-contain rounded-lg"
+                className="h-48 mt-4 w-full object-contain rounded-lg"
               />
             </CarouselItem>
           ))}
